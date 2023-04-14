@@ -1,4 +1,4 @@
-Hola 👋 soy Celes! 
+Hola 👋, I'm Celes! 
 
 <!--
 **celeam23/celeam23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
